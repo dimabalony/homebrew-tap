@@ -1,8 +1,8 @@
 class Undead < Formula
   desc "Brings Claude Code and Codex sessions back after quitting your terminal or rebooting"
   homepage "https://github.com/dimabalony/undead-ai-sessions"
-  url "https://github.com/dimabalony/undead-ai-sessions/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "d2d325b107405f738749d801f5f53d087cc680a8764320968014ac8548fffe0f"
+  url "https://github.com/dimabalony/undead-ai-sessions/archive/refs/tags/v0.3.2.tar.gz"
+  sha256 "087f87988652a25198349b2292d0cf111e49a21814338f30348078a6bb3d8b04"
   license "MIT"
 
   depends_on :macos
